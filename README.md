@@ -33,7 +33,7 @@ Clone the repository:
 
 
 Copy code
-1. Clone the repository:[git clone] (https://github.com/fares-sonar/my-advanced-blog.git)
+1. Clone the repository:[git clone] (https://fares-sonar.github.io/Blog/)
 2. Open the project: Navigate to the project directory and open index.html in your preferred web browser.
 3. Add Custom Styles: You can add your own styles in style.css to further customize the appearance.
 
